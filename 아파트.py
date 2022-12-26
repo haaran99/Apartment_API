@@ -30,7 +30,7 @@ while year <= 2021:
         LAWD_CD = '41173'
         DEAL_YMD = str(year)+str(mon)
         print(DEAL_YMD+"년도")
-        servicekey = 'sbn4HJa6Y7B0U1b%2B8rut19xsQnihxEryZeEtg1QqHWuIWz0UavcF9gqzC1HCkkapnHuhfB4tPLtk6MbxAnQfEQ%3D%3D'
+        servicekey = '키값'
         (str(servicekey))
         
         queryParams = '?LAWD_CD=' + LAWD_CD + '&DEAL_YMD=' + DEAL_YMD + '&serviceKey=' + servicekey
